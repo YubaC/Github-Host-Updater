@@ -20,7 +20,7 @@
 
 每次更改HOSTS文件前，程序都会把当前的HOSTS文件备份到`C:\Windows\System32\drivers\etc\hostsBackup\`文件夹下，并重命名为`年-月-日_时-分-秒`。
 
-HOSTS源文件来自于[https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)。
+HOSTS源文件来自于[https://raw.hellogithub.com/hosts](https://raw.hellogithub.com/hosts)（[项目地址](https://github.com/521xueweihan/GitHub520)）。
 
 您也可以自己修改HOSTS源文件，只要修改`hostOrigion.txt`（Release为`scripts\hostOrigion.txt`）内的链接即可。
 
