@@ -1,8 +1,12 @@
 # Github Host Updater
 
+~~GitHub出了问题？那当然是右上45°敲打它直到它恢复正常啊~~
+
+<img width="300px" src="icon.svg" alt="Icon">
+
 ## 概述
 
-一个用于自动更新GitHub的HOST的小工具，用于解决GitHub连接不上、卡顿的问题，只需在需要的时候运行一次即可。
+一个用于自动更新GitHub的HOST的小工具，可以在一定程度上解决GitHub连接不上、卡顿的问题，只需在需要的时候运行一次即可。
 
 **使用该工具前需要手动删除原HOSTS文件内您手动添加的与GitHub相关的设置项。** 如果您之前没有修改过HOSTS文件请忽略这句话。
 
