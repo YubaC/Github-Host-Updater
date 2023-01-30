@@ -1,6 +1,6 @@
 # Github Host Updater
 
-~~Github出了问题？那当然不断是右上45°敲打它直到它恢复正常啊~~
+~~Github出了问题？那当然是不断右上45°敲打它直到它恢复正常啊~~
 
 <img width="300px" src="icon.svg" alt="Icon">
 
